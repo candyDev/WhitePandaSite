@@ -8,7 +8,7 @@
 	pandaCoffeeIcon.png
 	whitePanda.png
 
-
+**GithubPages Link:** [link](https://candydev.github.io/WhitePandaSite/)
 
 **Snapshot**:
 
