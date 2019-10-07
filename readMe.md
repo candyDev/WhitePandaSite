@@ -12,4 +12,4 @@
 
 **Snapshot**:
 
-![candydev.github.io_WhitePandaSite_](D:\GitHub\WhitePandaSite\snapshot.png)
+![candydev.github.io_WhitePandaSite_](snapshot.png)
